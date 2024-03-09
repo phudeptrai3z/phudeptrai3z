@@ -1,6 +1,1 @@
-if game.CreatorType == Enum.CreatorType.User then
-game.Players.LocalPlayer.UserId = game.CreatorId
-end
-if game.CreatorType == Enum.CreatorType.Group then
-game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
-end
+--Triet2804#4818 loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTB2804/Lua-Roblox-Exploit/main/Dev/SimpleSpy-V2.2.lua"))()
