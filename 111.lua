@@ -1,9 +1,3 @@
---Triet2804#4818
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local menu1 = Instance.new("Frame")
 local menuname = Instance.new("TextLabel")
